@@ -1,0 +1,6 @@
+[package]
+name = "rust-transit"
+version = "0.0.1"
+
+[[bin]]
+name = "main"
